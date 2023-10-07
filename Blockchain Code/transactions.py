@@ -1,7 +1,7 @@
 from web3 import Web3
 
 # Ethereum node (Rinkeby testnet) and contract details
-infura_url = "https://rinkeby.infura.io/v3/YOUR_INFURA_PROJECT_ID"
+infura_url = "https://rinkeby.infura.io/v3/r78gud46ukuy"
 contract_address = "0xYourContractAddress"
 contract_abi = [
     # Sample contract ABI
